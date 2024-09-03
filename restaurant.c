@@ -127,7 +127,7 @@ int main()
 {
     printf("###################################\n");
     printf("###################################\n");
-    printf("##  Welcome to Akshar's Cafe ^_^ ##\n");
+    printf("##  Welcome to Dipali's Cafe ^_^ ##\n");
     printf("###################################\n");
     printf("###################################\n");
     int k;
